@@ -1,4 +1,4 @@
-# your_game
+# your-game
 
 ## Build
 
